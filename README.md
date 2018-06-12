@@ -13,6 +13,12 @@
 
 Alternatively, for H1 and H2, an underline-ish style:
 
+ 
+```python
+s = "Python syntax highlighting"
+print s
+```
+
 Alt-H1
 ======
 
